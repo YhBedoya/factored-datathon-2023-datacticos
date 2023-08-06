@@ -3,7 +3,7 @@
 ## Table of Contents 
 - [Description](#description)
 - [Features](#features)
-- [Project Structure](#Project Structure)
+- [Project Structure](#project-structure)
 - [Deployment](#Deployment)
 - [Screenshots](#Screenshots)
 
@@ -49,6 +49,6 @@ You can take a look of the final product here: https://datacticos-datathon.azure
 
 ## The team
 
-* @YhBedoya
-* @ceronvgabriel
-* @diegoecon-ai
+* [@YhBedoya](https://github.com/YhBedoya)
+* [@ceronvgabriel](https://github.com/ceronvgabriel)
+* [@diegoecon-ai](https://github.com/diegoecon-ai)
