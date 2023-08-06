@@ -36,15 +36,21 @@ You can take a look of the final product here: https://datacticos-datathon.azure
 
 ## Screenshots 
 * Image 1
+  
 ![Amazon review analyzer](Images/ARA.png)
+
 *Here's an illustration showcasing the capabilities of our tool, providing valuable insights into product reviews.*
 
 * Image 2
+  
 ![Brand Analytics](Images/BA.png)
+
 *This image demonstrates how our tool can identify the key factors contributing to customer satisfaction or dissatisfaction with a specific product.*
 
 * Image 3
+  
 ![Streaming Analytics](Images/SA.png)
+
 *In this example, our tool enables you to analyze various companies within a sector and their interactions with customers.*
 
 ## The team
