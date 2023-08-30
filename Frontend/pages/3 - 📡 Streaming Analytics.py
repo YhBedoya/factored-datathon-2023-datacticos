@@ -7,7 +7,7 @@ import logging
 
 import matplotlib.pyplot as plt
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
